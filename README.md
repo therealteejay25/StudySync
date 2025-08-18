@@ -1,37 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📚 StudySync Clone – Landing Page
 
-## Getting Started
+A responsive landing page clone of StudySync built for practice and portfolio showcase.
 
-First, run the development server:
+🚀 Features
 
-```bash
+Clean, modern UI inspired by StudySync
+
+Fully responsive (desktop, tablet, mobile)
+
+Smooth animations and hover effects
+
+SEO-friendly structure
+
+Deployed with Vercel
+
+🛠️ Tech Stack
+
+Frontend: React + Tailwind CSS (if you used them)
+
+Icons & Fonts: Lucide Icons
+
+Deployment: Vercel
+
+📂 Project Structure
+/studysync-clone
+ ├── index.html        # Main landing page
+ ├── style.css         # Stylesheet
+ ├── script.js         # JS for interactivity
+ ├── assets/           # Images, icons, logos
+ └── README.md         # Documentation
+
+⚡ Getting Started
+
+Clone the repo
+
+git clone https://github.com/yourusername/StudySync.git
+cd studysync
+
+
+Or, if using React/Tailwind:
+
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🎯 Purpose
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is a frontend practice build only.
+It is not affiliated with or endorsed by StudySync.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Built for:
 
-## Learn More
+Practicing responsive web design
 
-To learn more about Next.js, take a look at the following resources:
+Strengthening frontend development skills
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Adding a clean project to portfolio
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🌐 Live Demo
 
-## Deploy on Vercel
+👉 View Live Site
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-"# StudySync" 
+📸 Preview

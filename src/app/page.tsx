@@ -3,6 +3,8 @@ import Image from "next/image";
 import { useState, useEffect } from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./sections/Hero";
+import About from "./sections/About";
+import Contact from "./sections/Contact";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
@@ -23,6 +25,8 @@ export default function Home() {
         {/* Pass the function, not the result */}
       <Navbar toggle={toggle} darkMode={darkMode} />
       <Hero />
+      <About />
+      <Contact />
       </div>
     </div>
   );
